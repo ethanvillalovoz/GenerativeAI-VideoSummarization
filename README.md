@@ -21,52 +21,6 @@ The aim is to generate accurate text summaries of instructional videos by levera
 
 ---
 
-## Repository Structure
-
-```plaintext
-GenerativeAI-VideoSummarization/
-├── Dataset/
-│   ├── caption.json
-│   ├── HowTo100M_v1.csv
-│   ├── README.txt
-│   ├── s3d_features_readme.txt
-│   └── task_ids.csv
-├── features/
-│   ├── train/
-│   ├── val/
-│   └── test/
-├── Graphs/
-│   ├── Text_Generation/
-│   │   ├── bleu_scores_plot.png
-│   │   └── rouge_scores_plot.png
-│   ├── Text_Generation_BART/
-│   │   ├── bleu_scores_plot.png
-│   │   └── rouge_scores_plot.png
-├── Deliverables/
-│   ├── Proposal.pdf             # Initial project proposal
-│   ├── Write_Up.pdf             # Final project write-up
-│   ├── Presentation_Slides.pdf  # Presentation slide deck
-│   └── Presentation_Video.mp4   # Presentation video 
-├── Notebooks/
-│   ├── Data_Preprocessing_Preparation.ipynb
-│   ├── Text_Generation_FLAN_T5.ipynb
-│   ├── Text_Generation_BART.ipynb
-│   └── Multimodal_Learning.ipynb (Scrapped)
-├── Checkpoints/
-│   ├── model_checkpoint_epoch_1
-│   ├── model_checkpoint_epoch_2
-│   ├── model_checkpoint_epoch_3
-│   ├── model_checkpoint_bart_epoch_1
-│   ├── model_checkpoint_bart_epoch_2
-│   └── model_checkpoint_bart_epoch_3
-├── Videos/
-│   └── Raw video files used for feature extraction.
-├── preprocessed_dataset.csv
-├── preprocessed_dataset.json
-├── requirements.txt             # Python dependencies
-├── README.md                    # Main repository documentation
-```
-
 ## Deliverables
 
 The following documents and materials summarize the project and its outcomes:
