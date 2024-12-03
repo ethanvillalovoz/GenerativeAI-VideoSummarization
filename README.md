@@ -26,14 +26,14 @@ The aim is to generate accurate text summaries of instructional videos by levera
 The following documents and materials summarize the project and its outcomes:
 
 ### 1. Project Proposal
-- [Initial Project Proposal](Deliverables/Proposal.pdf)
+- [Initial Project Proposal](Deliverables/CPTS_437_Project_Proposal.pdf)
 
 ### 2. Project Write-Up
-- [Final Project Write-Up](Deliverables/Write_Up.pdf): This document includes the thought process, problem formulation, solution description, empirical insights, and results.
+- [Final Project Write-Up](): This document includes the thought process, problem formulation, solution description, empirical insights, and results.
 
 ### 3. Presentation Materials
-- [Presentation Slides](Deliverables/Presentation_Slides.pdf)
-- [Presentation Video (YouTube or Google Drive)](https://link-to-presentation-video)
+- [Presentation Slides]()
+- [Presentation Video (YouTube or Google Drive)]()
 
 ---
 
@@ -42,10 +42,10 @@ The following documents and materials summarize the project and its outcomes:
 The code for the project is available in this repository. A detailed demo can be run using the provided Jupyter Notebooks.
 
 ### **Key Files**
-- **Data Preprocessing**: [`Data_Preprocessing_Preparation.ipynb`](Notebooks/Data_Preprocessing_Preparation.ipynb)
-- **FLAN-T5 Model Fine-Tuning**: [`Text_Generation_FLAN_T5.ipynb`](Notebooks/Text_Generation_FLAN_T5.ipynb)
-- **BART Model Fine-Tuning**: [`Text_Generation_BART.ipynb`](Notebooks/Text_Generation_BART.ipynb)
-- **Multimodal Learning (Scrapped)**: [`Multimodal_Learning.ipynb`](Notebooks/Multimodal_Learning.ipynb)
+- **Data Preprocessing**: [`Data_Preprocessing_Preparation.ipynb`](Data_Preprocessing_Preparation.ipynb)
+- **FLAN-T5 Model Fine-Tuning**: [`Text_Generation_FLAN_T5.ipynb`](Text_Generation_FLAN_T5.ipynb)
+- **BART Model Fine-Tuning**: [`Text_Generation_BART.ipynb`](Text_Generation_BART.ipynb)
+- **Multimodal Learning (Scrapped)**: [`Multimodal_Learning.ipynb`](Multimodal_Learning.ipynb)
 
 ### **Run the Demo**
 1. **Clone this repository**:
