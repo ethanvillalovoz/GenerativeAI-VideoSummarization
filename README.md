@@ -61,6 +61,8 @@ The code for the project is available in this repository. A detailed demo can be
    * Open Data_Preprocessing_Preparation.ipynb to preprocess the dataset.
    * Fine-tune models using Text_Generation_FLAN_T5.ipynb or Text_Generation_BART.ipynb.
 
+Here is a link to a Google Colab where you can demo and learn how to run our code: [Link](https://colab.research.google.com/drive/1QD04ii2pjK7tJ2RIA96OMbG7QyztThJG?usp=sharing)
+
 ## Results and Insights
 
 ### Evaluation Metrics
