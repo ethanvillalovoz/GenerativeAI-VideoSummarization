@@ -29,11 +29,10 @@ The following documents and materials summarize the project and its outcomes:
 - [Initial Project Proposal](Deliverables/CPTS_437_Project_Proposal.pdf)
 
 ### 2. Project Write-Up
-- [Final Project Write-Up](): This document includes the thought process, problem formulation, solution description, empirical insights, and results.
+- [Final Project Write-Up](Deliverables/): This document includes the thought process, problem formulation, solution description, empirical insights, and results.
 
 ### 3. Presentation Materials
-- [Presentation Slides]()
-- [Presentation Video (YouTube or Google Drive)]()
+- [Presentation Slides](Deliverables/)
 
 ---
 
