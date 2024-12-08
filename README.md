@@ -29,10 +29,10 @@ The following documents and materials summarize the project and its outcomes:
 - [Initial Project Proposal](Deliverables/CPTS_437_Project_Proposal.pdf)
 
 ### 2. Project Write-Up
-- [Final Project Write-Up](Deliverables/): This document includes the thought process, problem formulation, solution description, empirical insights, and results.
+- [Final Project Write-Up](Deliverables/Generative_AI_for_Video_to_Text_Summarization_Final_Report.pdf): This document includes the thought process, problem formulation, solution description, empirical insights, and results.
 
 ### 3. Presentation Materials
-- [Presentation Slides](Deliverables/)
+- [Presentation Slides](Deliverables/Generative AI for Video-to-Text Summarization.pdf)
 
 ---
 
