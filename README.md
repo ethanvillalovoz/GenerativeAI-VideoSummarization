@@ -32,7 +32,7 @@ The following documents and materials summarize the project and its outcomes:
 - [Final Project Write-Up](Deliverables/Generative_AI_for_Video_to_Text_Summarization_Final_Report.pdf): This document includes the thought process, problem formulation, solution description, empirical insights, and results.
 
 ### 3. Presentation Materials
-- [Presentation Slides](Deliverables/Generative AI for Video-to-Text Summarization.pdf)
+- [Presentation Slides](Deliverables/Generative_AI_for_Video_to_Text_Summarization_Presentation.pdf)
 
 ---
 
