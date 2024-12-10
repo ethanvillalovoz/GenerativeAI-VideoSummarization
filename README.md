@@ -26,13 +26,13 @@ The aim is to generate accurate text summaries of instructional videos by levera
 The following documents and materials summarize the project and its outcomes:
 
 ### 1. Project Proposal
-- [Initial Project Proposal](Deliverables/CPTS_437_Project_Proposal.pdf)
+- [Initial Project Proposal](docs/CPTS_437_Project_Proposal.pdf)
 
 ### 2. Project Write-Up
-- [Final Project Write-Up](Deliverables/Generative_AI_for_Video_to_Text_Summarization_Final_Report.pdf): This document includes the thought process, problem formulation, solution description, empirical insights, and results.
+- [Final Project Write-Up](docs/Generative_AI_for_Video_to_Text_Summarization_Final_Report.pdf): This document includes the thought process, problem formulation, solution description, empirical insights, and results.
 
 ### 3. Presentation Materials
-- [Presentation Slides](Deliverables/Generative_AI_for_Video_to_Text_Summarization_Presentation.pdf)
+- [Presentation Slides](docs/Generative_AI_for_Video_to_Text_Summarization_Presentation.pdf)
 
 ---
 
@@ -41,10 +41,10 @@ The following documents and materials summarize the project and its outcomes:
 The code for the project is available in this repository. A detailed demo can be run using the provided Jupyter Notebooks.
 
 ### **Key Files**
-- **Data Preprocessing**: [`Data_Preprocessing_Preparation.ipynb`](Data_Preprocessing_Preparation.ipynb)
-- **FLAN-T5 Model Fine-Tuning**: [`Text_Generation_FLAN_T5.ipynb`](Text_Generation_FLAN_T5.ipynb)
-- **BART Model Fine-Tuning**: [`Text_Generation_BART.ipynb`](Text_Generation_BART.ipynb)
-- **Multimodal Learning (Scrapped)**: [`Multimodal_Learning.ipynb`](Multimodal_Learning.ipynb)
+- **Data Preprocessing**: [`Data_Preprocessing_Preparation.ipynb`](src/Data_Preprocessing_Preparation.ipynb)
+- **FLAN-T5 Model Fine-Tuning**: [`Text_Generation_FLAN_T5.ipynb`](src/Text_Generation_FLAN_T5.ipynb)
+- **BART Model Fine-Tuning**: [`Text_Generation_BART.ipynb`](src/Text_Generation_BART.ipynb)
+- **Multimodal Learning (Scrapped)**: [`Multimodal_Learning.ipynb`](src/Multimodal_Learning.ipynb)
 
 ### **Run the Demo**
 1. **Clone this repository**:
